@@ -1,0 +1,12 @@
+.container{
+    background-color: rgb(255, 7, 7);
+    max-width: 100%;
+    height: 100px;
+    margin-top: 0px;
+}
+
+.Test {
+    background-color: rgb(128, 119, 255);
+    width: 1000px;
+    margin: auto auto auto auto;
+}
